@@ -1,5 +1,5 @@
 katz deli = []
-
+end
 def line(x)
   new array = []
   if x.empty?
