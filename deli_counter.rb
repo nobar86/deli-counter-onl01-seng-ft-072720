@@ -1,5 +1,5 @@
 katz deli = []
-end
+
 def line(x)
   new array = []
   if x.empty?
@@ -10,7 +10,7 @@ def line(x)
     end
     puts "The line is currently: #{new_array.join(" ")}"
   end
-end
+
 
 def take_a_number(katz_deli, name)
   katz_deli << name
