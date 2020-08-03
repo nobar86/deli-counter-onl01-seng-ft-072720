@@ -5,7 +5,7 @@ def line(x)
   if x.empty?
     puts "The line is currently empty."
   else
-    x.each_with_index(1) do |name, index|
+    x.each.with_index(1) do |name, index|
       new_array << ("#{index}, #{name}")
     end
     puts "the line is currently : #{new_array.join(" ")}"
