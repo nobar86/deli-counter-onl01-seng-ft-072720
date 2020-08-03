@@ -22,7 +22,7 @@ def now_serving(x)
     puts "There is nobody waiting to be served!"
   else
     puts "Curently serving #{x[0]}."
-    x.shift
+     x.shift
   end
 end
 
