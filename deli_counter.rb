@@ -21,7 +21,7 @@ def now_serving(x)
   if x.empty?
     puts "There is nobody waiting to be served!"
   else
-    puts "Curently serving #{x[0]}."
+    puts "Currently serving #{x[0]}."
      x.shift
   end
 end
