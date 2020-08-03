@@ -25,5 +25,4 @@ def now_serving(x)
     x.shift
   end
 end
-end
-end
+
