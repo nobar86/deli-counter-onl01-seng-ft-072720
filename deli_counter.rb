@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(x)
-  new array = []
+  new_array = []
   if x.empty?
     puts "The line is currently empty."
   else
