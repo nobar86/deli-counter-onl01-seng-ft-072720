@@ -24,5 +24,5 @@ def now_serving(x)
     puts "Curently serving #{x[0]}."
     x.shift
   end
-
+end
 
