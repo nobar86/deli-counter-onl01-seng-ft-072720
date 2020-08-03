@@ -1,4 +1,4 @@
-katz deli = []
+katz_deli = []
 
 def line(x)
   new array = []
